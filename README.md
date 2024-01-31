@@ -1,5 +1,5 @@
 - 💫 Hi, I’m **Mark Coates**, *Founder & Chief Creator* at [**Cunning Folk Media**](http://cunningfolk.media) (@cunningfolkmedia)
 - 💕 I’m interested in **software development**, **GenAI**, and [**magick**](https://en.wikipedia.org/wiki/Magic_%28supernatural%29?wprov=sfla1). 🧙🏻‍♂️✨
 - 📚 I’m currently learning all I can about *open source Large Language Models* (**LLM**s) while writing a book that will be published later this year (Autumn 2024).
-- 🤝 I’m looking to collaborate on *Generative Artificial Intelligence* (**AI**) and *Machine Learning* (**ML**) applications and Cunning Folk Media is currently accepting nonfiction and fiction manuscripts for potential book publication. Do you have an [inquiry or submission](mailto: submissions@cunningfolk.media)? 
+- 🤝 I’m looking to collaborate on *Generative Artificial Intelligence* (**AI**) and *Machine Learning* (**ML**) applications and Cunning Folk Media is currently accepting nonfiction and fiction manuscripts for potential book publication. Do you have an [inquiry or submission](mailto:submissions@cunningfolk.media)? 
 - 📨 [Email Us](mailto:contact@cunningfolk.media) or visit our [Contact Form](http://cunningfolk.media/contact).
