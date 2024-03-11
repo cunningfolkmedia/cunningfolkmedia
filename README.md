@@ -3,4 +3,4 @@
 - 📚 We're currently neck-deep in code for a _super-cool_ and **_super-secret_** project requiring much of our days and nights. We are, of course, very interested in the *open source ecosystem, especially **Large Language Models*** (**LLM**s) and the exponentially rapid advancements in all areas relating to A.I. and machine learning.
 - 🤝 We are looking to collaborate on *Generative Artificial Intelligence* (**A.I.**) and *Machine Learning* (**M.L.**) applications.
 - 💡 [**Cunning Folk Media**](http://cunningfolk.media), is currently accepting nonfiction and fiction manuscripts for publication. Do you have an [inquiry or submission](mailto:submissions@cunningfolk.media)? 
-- 📨 [Email Us](mailto:contact@cunningfolk.media) or [call us anytime](tel:+16174017810).
+- 📨 [Email Us](mailto:contact@cunningfolk.media) or [call us anytime](tel:6174017810).
